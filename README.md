@@ -38,3 +38,6 @@ HTML5
 CSS3 (Flexbox, Grid, Variables, Animations)
 
 JavaScript (DOM Manipulation, Timers, Events)
+
+
+🔗 [Zobacz stronę online](https://kapi30.github.io/javascript-Whack-A-Mole/)
